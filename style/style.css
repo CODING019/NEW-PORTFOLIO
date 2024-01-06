@@ -23,6 +23,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items:center;
+    margin: 10px;
 }
 .new-title{
     color: var(--Dark-01, #181818);
@@ -47,4 +48,17 @@ font-size: 20px;
 
 font-weight: 400;
 
+}
+.background{
+    background: #FFF8F3;
+}
+.banner{
+    padding: 15px 15 px 15px 150px;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+  
+
+    
+    
 }
